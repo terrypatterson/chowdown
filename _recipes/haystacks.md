@@ -17,10 +17,12 @@ ingredients:
 - 3 cups of oats (standard or quick)
 
 directions:
-- Over medium heat, combine sugar, butter, milk and cocoa bring to a boil for 2 minutes
-- Then add the peanut butter, vanilla, and oats and combine until the oats are fully covered
+- Over medium heat, combine sugar, butter, milk and cocoa 
+- Bring to a boil for 2 minutes
+- Add the peanut butter, vanilla, and oats
+- Combine until the oats are fully covered
 - Use a teaspoon or tablespoon to drop portions onto parchment paper and let cool
-- Note: Almond Milk and Butter Flavored Crisco can be used to replace the butter and milk for lactose intolerence
+- Note: almond milk and butter flavored Crisco can be used to replace the butter and milk for lactose intolerence
 
 ---
 
